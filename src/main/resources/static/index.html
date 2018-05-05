@@ -6,12 +6,14 @@
     <script src="js/fruitsApp.js"></script>
 </head>
 
-<body ng-controller="FruitsController as fruitList">
+<body ng-controller="FruitsController as fc">
 
     Fruits
+    [ <a href="" ng-click="fc.loadFruits()">load fruits</a> ]
+
     <ul>
-        <li ng-repeat="it in fruitList.fruits">
-            {{it}}
+        <li ng-repeat="item in fc.fruits">
+            {{item}}
         </li>
     </ul>
 
