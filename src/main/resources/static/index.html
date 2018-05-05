@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html ng-app="fruitsApp">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="js/fruitsApp.js"></script>
+</head>
+
+<body ng-controller="FruitsController as fruitList">
+
+    Fruits
+    <ul>
+        <li ng-repeat="it in fruitList.fruits">
+            {{it}}
+        </li>
+    </ul>
+
+</body>
+</html>
