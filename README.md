@@ -3,8 +3,9 @@
 This hello world is a Rest Server created with SpringBoot. The client is AngularJS.
 
 How to test
+* Install Gradle
 * $ cd gradle-springboot-angularjs
-* $ ./gradle
+* $ gradle
 * Access: http://localhost:8080/test
 
 Tech Stack
