@@ -9,7 +9,7 @@ This hello world is a Rest Server created with SpringBoot. The client is Angular
 * Access: http://localhost:8080
 
 ## Folder Structure
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/topera/gradle-springboot-angularjs/master/doc/files.png)
 
 ## Tech Stack
 * Spring Boot 2.0.1.RELEASE
