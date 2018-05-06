@@ -2,13 +2,16 @@
 ## Rest Server with SpringBoot + Angular
 This hello world is a Rest Server created with SpringBoot. The client is AngularJS.
 
-How to test
+## How to test
 * Install Gradle
 * $ cd gradle-springboot-angularjs
 * $ gradle
 * Access: http://localhost:8080
 
-Tech Stack
+## Folder Structure
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Tech Stack
 * Spring Boot 2.0.1.RELEASE
 * IntelliJ IDEA 2018.1
 * Gradle 4.7
