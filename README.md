@@ -17,4 +17,4 @@ This hello world is a Rest Server created with SpringBoot. The client is Angular
 * Gradle 4.7
 * AngularJS 1.6.9
 
-To take a look in other tutorials, please see https://github.com/topera/hello-world-index
+To take a look in other projects, please see https://github.com/topera/index
