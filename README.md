@@ -9,7 +9,7 @@ This hello world is a Rest Server created with SpringBoot. The client is Angular
 * Access: http://localhost:8080
 
 ## Folder Structure
-![folder-structure](https://raw.githubusercontent.com/topera/gradle-springboot-angularjs/master/doc/files.png)
+![folder-structure](./doc/files.png)
 
 ## Tech Stack
 * Spring Boot 2.0.1.RELEASE
